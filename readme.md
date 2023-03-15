@@ -1,11 +1,11 @@
-# Firefox Sidebar / Edge-like Vertical Tabs (but better!)
+# Firefox Sidebar for compact density
 
-**Note:** This repo was originally a subdirectory of [drannex42/linux-utils](https://github.com/drannex42//linux-utils/), but has now become a standalone repo for my Firefox Sidebar CSS and Utilities. The original linux-utils files can be found [here](https://github.com/drannex42/utils).
+forked from [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar)
 
 ## Example
-Video of the extension in action: [https://i.imgur.com/HaLvkFc.mp4](https://i.imgur.com/HaLvkFc.mp4)
+Video of the extension in action: 
 
-https://user-images.githubusercontent.com/4322153/205100497-f56637c4-1d46-4c15-b349-d0b53f2838a0.mp4
+https://user-images.githubusercontent.com/6804367/225363605-3f46fb64-e75a-4c0b-ada8-c06f04ab6e27.mp4
 
 ## Features:
   - Edge-like vertical tab design
