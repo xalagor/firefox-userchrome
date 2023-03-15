@@ -1,6 +1,4 @@
-# Firefox Sidebar for compact density
-
-forked from [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar)
+# [drannex42/FirefoxSidebar](https://github.com/drannex42/FirefoxSidebar) fork for compact density
 
 ## Example
 Video of the extension in action: 
