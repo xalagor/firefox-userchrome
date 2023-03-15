@@ -25,7 +25,8 @@
 /*Collapse in default state and add transition*/
 #sidebar-box {
   /*! overflow: visible !important; */
-  border-right: none !important; /* border-right: 1px solid var(--sidebar-border-color) !important; */
+  border-right: none !important;
+  /* border-right: 1px solid var(--sidebar-border-color) !important; */
   z-index: 2;
   border-right: none !important;
   width: 100% !important;
@@ -107,8 +108,6 @@
   outline: none !important;
 }
 
-
-
 .sidebar-splitter {
   opacity: 0 !important;
   width: 0px !important;
@@ -137,8 +136,8 @@ toolbarseparator {
 }
 
 #PersonalToolbar {
-  padding: 2px 5px !important;
+  padding: 2px 2px !important;
   padding-top: 0px !important;
   margin-top: 0px !important;
-  padding-left: calc(var(--sidebar-width) + 6px) !important;
+  padding-left: calc(var(--sidebar-width) + 3px) !important;
 }
