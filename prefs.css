@@ -5,9 +5,9 @@
 */
 
 :root {
-  --sidebar-width: 50px;
-  --toolbar-height: -50px;
-  --menubar-height: -74px;
+  --sidebar-width: 34px;
+  --toolbar-height: -34px;
+  --menubar-height: -34px;
   --sidebar-padding: calc(var(--sidebar-width) + 0px);
   --toolbar-start-end-padding: 10px !important;
 
